@@ -1,6 +1,9 @@
 {
   "name": "inventatrack-frontend",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Food inventory management system",
+  "author": "InventaTech Development Team",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
